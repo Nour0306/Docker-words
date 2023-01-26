@@ -1,0 +1,38 @@
+.customHeader{
+    border-bottom: none;
+}
+.customFooter{
+    border-top: none;
+}
+.customtitle{
+    font-size: 17px;
+    margin-top: 7px;
+    color: #383141;
+    font-weight: 600;
+    margin-left: 11px;
+
+}
+.subtitle{
+    font-size: 14px;
+    margin-top: -6px;
+    color: #383141;
+    margin-bottom: 32px;
+
+}
+.slink{
+    font-size: 14px;
+    margin-top: -6px;
+    color: #383141;
+    margin-bottom: 32px;
+    margin-left: -19rem;
+}
+.subtitle1{
+    padding: 0px 14px;
+    font-size: 15px;
+    color: #383141;
+    font-style: italic;
+}
+.subtitle2{
+    padding: 2px 24px;
+    font-size: 18px;
+}

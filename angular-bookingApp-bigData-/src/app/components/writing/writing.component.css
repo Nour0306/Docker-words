@@ -1,0 +1,32 @@
+.customHeader{
+    border-bottom: none;
+}
+.customFooter{
+    border-top: none;
+}
+.customtitle{
+    font-size: 17px;
+    margin-top: 7px;
+    color: #383141;
+    font-weight: 600;
+}
+.subtitle{
+    font-size: 14px;
+    margin-top: -6px;
+    color: #383141;
+    margin-bottom: 32px;
+}
+.slink{
+    font-size: 14px;
+    margin-top: -6px;
+    color: #383141;
+    margin-bottom: 32px;
+    margin-left: -19rem;
+}
+.options{
+    width: 100%;
+    height: 2rem;
+    border-radius: 5px;
+    border-color: lightgrey;
+    margin-bottom: 12px;
+}
